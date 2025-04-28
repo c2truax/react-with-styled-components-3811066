@@ -2,7 +2,10 @@ import logo from "./logo.svg";
 import "./App.css";
 
 const App = () => {
-  return <div></div>;
+  return <div>
+
+    <h1>Hello World</h1>
+  </div>;
 };
 
 export default App;
